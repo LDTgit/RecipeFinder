@@ -1,3 +1,4 @@
+# Descrierea Aplicației
 **RecipeFinder** este o aplicație mobilă Android care permite utilizatorilor să caute rețete culinare dintr-o bază de date externă, respectiv TheMealDB API. 
 
 Funcționalități principale:
@@ -9,6 +10,18 @@ Funcționalități principale:
 
 Aplicația preia informații de la https://www.themealdb.com/api/json/v1/1/search.php?s=.
 
+# Structura requestului
+Interogarea serverului TheMealDB se face printr-un request de tip HTTP GET. 
+URL-ul este construit dinamic preluând textul introdus de utilizator:
+https://www.themealdb.com/api/json/v1/1/search.php?s=  + query
+Am folosit clasa abstractă HttpURLConnection, importată prin import java.net.HttpURLConnection, in cadrul metodei performNetworkCall(query). Am apelat apoi această metodă folosind un fir de execuție secundar, prin ExecutorService.
+ Pentru procesarea răspunsului, respectiv a obiectului JSON returnat de server, am folosit metoda parseJson(String json) care a transformat textul în obiecte Java, după cum urmează:
+-	Validare: Verificăm dacă cheia ”meals” nu este null;
+-	Iterare: Parcurgem JSONArray și extragem idMeal, strMeal, strMealThumb și strInstructions. 
+-	Concatenare ingrediente: Pentru extragerea și formatarea ingredientelor am folosit clasa StringBuilder. 
+-	Paginare: Am stocat datele în allFetchedRecipes, iar prin metoda displayNextBatch() am trimis către afișare doar primele 4 elemente.
+
+# Capturi de ecran si Descriere
 **Captură Ecran 1 (Ecran Principal):** 
 Afișează bara de căutare, butonul de “Refresh” și butonul de ieșire.
 <img width="179" height="397" alt="image" src="https://github.com/user-attachments/assets/98a465b2-c83e-47d9-85ed-de735359f886" />
@@ -28,4 +41,3 @@ Afișează ingredientele și instrucțiunile de gătit într-un ecran separat. D
 **Captură Ecran 4  (Pictogramă):** 
 Imagine cu ecranul telefonului unde se vede iconița proprie aplicației.
 <img width="183" height="406" alt="image" src="https://github.com/user-attachments/assets/91dae6c8-34ae-4903-a1c3-55485f3f2800" />
-
