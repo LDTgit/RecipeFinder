@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-mdpi_ic_launcher_custom_foreground.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-mdpi/ic_launcher_custom_foreground.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xxhdpi_ic_launcher_custom_round.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xxhdpi/ic_launcher_custom_round.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/layout_recipe_item_row.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/layout/recipe_item_row.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/layout_activity_recipe_detail.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/layout/activity_recipe_detail.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xxhdpi_ic_launcher_custom_foreground.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xxhdpi/ic_launcher_custom_foreground.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xhdpi_ic_launcher_custom_foreground.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xhdpi/ic_launcher_custom_foreground.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-hdpi_ic_launcher_custom.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-hdpi/ic_launcher_custom.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xhdpi_ic_launcher_custom.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xhdpi/ic_launcher_custom.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xhdpi_ic_launcher_custom_round.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xhdpi/ic_launcher_custom_round.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xxxhdpi_ic_launcher_custom_round.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xxxhdpi/ic_launcher_custom_round.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-hdpi_ic_launcher_custom_round.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-hdpi/ic_launcher_custom_round.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xxxhdpi_ic_launcher_custom_foreground.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xxxhdpi/ic_launcher_custom_foreground.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-mdpi_ic_launcher_custom.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-mdpi/ic_launcher_custom.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-hdpi_ic_launcher_custom_foreground.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-hdpi/ic_launcher_custom_foreground.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xxxhdpi_ic_launcher_custom.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xxxhdpi/ic_launcher_custom.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-anydpi-v26_ic_launcher_custom_round.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-anydpi-v26/ic_launcher_custom_round.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xxhdpi_ic_launcher_custom.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xxhdpi/ic_launcher_custom.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-anydpi-v26_ic_launcher_custom.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-anydpi-v26/ic_launcher_custom.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-mdpi_ic_launcher_custom_round.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-mdpi/ic_launcher_custom_round.webp"
+    },
+    {
+        "merged": "ro.jercan.RecipeFinder.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ro.jercan.RecipeFinder.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

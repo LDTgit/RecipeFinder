@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecipeFinder</string>
+    <string name="recipe_image_desc">Imaginea retetei selectate</string>
+</resources>

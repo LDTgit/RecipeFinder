@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#FAFAFA"
+    tools:context=".RecipeDetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="8dp">
+
+            <ImageView
+                android:id="@+id/detailImageView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:contentDescription="@null"
+                android:src="@android:drawable/ic_menu_gallery" />
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/detailTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textColor="@android:color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="60dp"
+            android:layout_height="4dp"
+            android:layout_marginTop="8dp"
+            android:background="@android:color/holo_blue_dark" />
+
+        <TextView
+            android:id="@+id/detailIngredients"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textSize="18dp"
+            android:textColor="#003322"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/detailInstructions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4dp"
+            android:textColor="#333333"
+            android:textSize="16sp" />
+
+
+    </LinearLayout>
+</ScrollView>
